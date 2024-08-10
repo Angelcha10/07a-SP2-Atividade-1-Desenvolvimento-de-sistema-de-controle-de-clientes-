@@ -1,0 +1,15 @@
+C:\Users\angel\Desktop\Fullstack\atividades\codificaçao Back end\atividade\bin\Debug\net7.0\Atividade.exe
+C:\Users\angel\Desktop\Fullstack\atividades\codificaçao Back end\atividade\bin\Debug\net7.0\Atividade.deps.json
+C:\Users\angel\Desktop\Fullstack\atividades\codificaçao Back end\atividade\bin\Debug\net7.0\Atividade.runtimeconfig.json
+C:\Users\angel\Desktop\Fullstack\atividades\codificaçao Back end\atividade\bin\Debug\net7.0\Atividade.dll
+C:\Users\angel\Desktop\Fullstack\atividades\codificaçao Back end\atividade\bin\Debug\net7.0\Atividade.pdb
+C:\Users\angel\Desktop\Fullstack\atividades\codificaçao Back end\atividade\obj\Debug\net7.0\Atividade.csproj.AssemblyReference.cache
+C:\Users\angel\Desktop\Fullstack\atividades\codificaçao Back end\atividade\obj\Debug\net7.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\Desktop\Fullstack\atividades\codificaçao Back end\atividade\obj\Debug\net7.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\angel\Desktop\Fullstack\atividades\codificaçao Back end\atividade\obj\Debug\net7.0\Atividade.AssemblyInfo.cs
+C:\Users\angel\Desktop\Fullstack\atividades\codificaçao Back end\atividade\obj\Debug\net7.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\Fullstack\atividades\codificaçao Back end\atividade\obj\Debug\net7.0\Atividade.dll
+C:\Users\angel\Desktop\Fullstack\atividades\codificaçao Back end\atividade\obj\Debug\net7.0\refint\Atividade.dll
+C:\Users\angel\Desktop\Fullstack\atividades\codificaçao Back end\atividade\obj\Debug\net7.0\Atividade.pdb
+C:\Users\angel\Desktop\Fullstack\atividades\codificaçao Back end\atividade\obj\Debug\net7.0\Atividade.genruntimeconfig.cache
+C:\Users\angel\Desktop\Fullstack\atividades\codificaçao Back end\atividade\obj\Debug\net7.0\ref\Atividade.dll
